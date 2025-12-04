@@ -181,10 +181,10 @@ rates_query
 | customer_type     | adr    |
 |-------------------|--------|
 | str               | f64    |
+| "Contract"        | 94.05  |
 | "Group"           | 91.95  |
 | "Transient-Party" | 90.87  |
 | "Transient"       | 110.02 |
-| "Contract"        | 94.05  |
 
 </div>
 
